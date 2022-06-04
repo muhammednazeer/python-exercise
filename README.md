@@ -1,2 +1,2 @@
 # python-exercise
-Python mini projects
+Python mini projects for beginners
